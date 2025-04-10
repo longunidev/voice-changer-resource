@@ -1,0 +1,15 @@
+
+# Bỏ qua các file hệ thống macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Bỏ qua các file tạm thời
+*.tmp
+*.bak
+*.swp
+
+# Bỏ qua các file ẩn khác
+Thumbs.db
+desktop.ini
